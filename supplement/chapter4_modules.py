@@ -4,6 +4,9 @@ import pandas as pd
 import numpy as np
 from sklearn.utils import shuffle
 
+  
+
+
 def load_ratings() -> "pd.DataFrame":
   """rating df를 불러오는 함수
 
